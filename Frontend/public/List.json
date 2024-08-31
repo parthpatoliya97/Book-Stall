@@ -1,0 +1,122 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"This kind of books are based on story guidelines and treu story",
+        "Price":0,
+        "Category":"Free",
+        "image":"books.jpg"
+    },
+
+    {
+        "id":2,
+        "name":"Drama Book",
+        "title":"This kind of books are based on drama and thriller stories",
+        "Price":0,
+        "Category":"Free",
+        "image":"books.jpg"
+    },
+
+    {
+        "id":3,
+        "name":"History Book",
+        "title":"This kind of books are based on past and history related events",
+        "Price":0,
+        "Category":"Free",
+        "image":"books.jpg"
+
+    },
+
+    {
+        "id":4,
+        "name":"Romance Book",
+        "title":"This kind of books are based on romantic and love stories",
+        "Price":0,
+        "Category":"Free",
+        "image":"books.jpg"
+
+    },
+
+    {
+        "id":5,
+        "name":"Comedy Book",
+        "title":"This kind of books are based on jokes and comedy stories",
+        "Price":0,
+        "Category":"Free",
+        "image":"books.jpg"
+
+    },
+
+    {
+        "id":6,
+        "name":"Music Book",
+        "title":"This kind of books are based on song writing and famous songs",
+        "Price":0,
+        "Category":"Free",
+        "image":"books.jpg"
+
+    },
+
+    {
+        "id":7,
+        "name":"Physology Book",
+        "title":"This kind of books are based on human mind reading and control ",
+        "Price":200,
+        "Category":"Paid",
+        "image":"books.jpg"
+
+    },
+
+    {
+        "id":8,
+        "name":" Horror Book",
+        "title":"This kind of books are collection of true horror stories",
+        "Price":300,
+        "Category":"Paid",
+        "image":"books.jpg"
+
+    },
+
+    {
+        "id":9,
+        "name":"biography Book",
+        "title":"This kind of books show famous and legendary people lifestory and inspiration",
+        "Price":500,
+        "Category":"Paid",
+        "image":"books.jpg"
+
+    },
+
+    {
+        "id":10,
+        "name":"Poetry Book",
+        "title":"This kind of books are included famous poetry and novel",
+        "Price":150,
+        "Category":"Paid",
+        "image":"books.jpg"
+
+    },
+
+    {
+        "id":11,
+        "name":"Business&finance Book",
+        "title":"This kind of books are based on market strategy and business goals",
+        "Price":600,
+        "Category":"Paid",
+        "image":"books.jpg"
+
+    },
+
+    {
+        "id":12,
+        "name":"Art&photography Book",
+        "title":"This kind of books are collection of nature pictures & paintings",
+        "Price":700,
+        "Category":"Paid",
+        "image":"books.jpg"
+
+    }
+
+
+
+]
